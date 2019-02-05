@@ -22,7 +22,7 @@ Or install it yourself as:
 
 In your `application.js` you will need to add these lines:
 
-    //= require wordBreak.js
+    //= require wordBreak
 
 ## Contributing
 
