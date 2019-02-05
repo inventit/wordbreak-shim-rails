@@ -1,4 +1,5 @@
 require "bundler/setup"
+require "rails/engine"
 require "wordbreak/shim/rails"
 
 RSpec.configure do |config|
